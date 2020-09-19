@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom Navigation Bar</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
